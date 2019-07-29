@@ -1,3 +1,4 @@
 # blockchain-data-mining
 
-#### network embedding
+network embedding
+----------------
