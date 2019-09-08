@@ -24,6 +24,10 @@ This repository lists some interesting reserach work on blockchian data mining a
   * Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics 
      * [[paper]](https://arxiv.org/abs/1908.02591)
      * This paper contributes the Elliptic Data Set, a time series graph of over 200K Bitcoin transactions (nodes), 234K directed payment flows (edges), and 166 node features and shares results from a binary classification task predicting illicit transactions using variations of Logistic Regression (LR), Random Forest (RF), Multilayer Perceptrons (MLP), and Graph Convolutional Networks (GCN), with GCN being of special interest as an emergent new method for capturing relational information. The results show the superiority of Random Forest (RF), but also invite algorithmic work to combine the respective powers of RF and graph methods.
+   
+   * An Inquiry into Money Laundering Tools in the Bitcoin Ecosystem 
+     * [[paper]](https://maltemoeser.de/paper/money-laundering.pdf)
+     * This paper investigates multiple bitcoin mixing services by sending and withdrawing bitcoins to/from these services and analyzing on-chain transaction graphs.
 
 * ### Platform
   * BITSCOPE: Scaling Bitcoin Address De-anonymization using Multi-Resolution Clustering
