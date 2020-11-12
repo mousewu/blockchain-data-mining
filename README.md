@@ -1,6 +1,6 @@
-# Blockchain Data Mining
+# Blockchain Intelligence
 
-This repository lists some interesting reserach work on blockchian data mining an analysis.
+This repository lists some interesting reserach work on blockchian data mining and analysis.
 
 ## Papers
 
@@ -8,7 +8,30 @@ This repository lists some interesting reserach work on blockchian data mining a
   * Blockchain Data Analysis: A Review of Status, Trends and Challenges (Chinese)
     * [[paper]](http://crad.ict.ac.cn/CN/abstract/abstract3762.shtml)
     * This review begins by introducing the architecture and key techniques of blockchain technology and providing the main data types and their characteristics in blockchain with the corresponding analysis methods. Then, the current research progress in blockchain data analysis is summarized in seven research problems, which includes entity recognition, privacy disclosure risk analysis, network portrait, network visualization, market effect analysis, transaction pattern recognition, illegal behavior detection and analysis. Finaly, the directions, prospects and challenges for future research are explored based on the shortcomings of current research.
-  
+    
+   * Zheng, Zibin, et al. “An overview on smart contracts: Challenges, advances and platforms.” Future Generation Computer Systems 105 (2020): 475-491
+     * [[paper]](https://www.sciencedirect.com/science/article/pii/S0167739X19316280)
+    
+   * Xie, Shaoan, et al. “Blockchain for cloud exchange: A survey.” Computers & Electrical Engineering 81 (2020): 106526
+       * [[paper]](https://www.sciencedirect.com/science/article/pii/S0045790618332750)
+       
+    * Zhou, Qiheng, et al. “Solutions to Scalability of Blockchain: A Survey.” IEEE Access 8 (2020): 16440-16455
+       * [[paper]](https://ieeexplore.ieee.org/abstract/document/8962150/)
+    
+     * Dai, Hong-Ning, Zibin Zheng, and Yan Zhang. “Blockchain for internet of things: A survey.” IEEE Internet of Things Journal 6.5 (2019): 8076-8094
+       * [[paper]](https://ieeexplore.ieee.org/abstract/document/8731639/)
+       
+     * Zheng, Zibin, et al. “Blockchain challenges and opportunities: A survey.” International Journal of Web and Grid Services 14.4 (2018): 352-375
+       * [[paper]](https://www.researchgate.net/profile/Hong-Ning_Dai/publication/328271018_Blockchain_challenges_and_opportunities_a_survey/links/5bd2706f92851c6b278f31eb/Blockchain-challenges-and-opportunities-a-survey.pdf) 
+       
+     * Zheng, Zibin, et al. “An overview of blockchain technology: Architecture, consensus, and future trends.” 2017 IEEE international congress on big data (BigData congress). IEEE, 2017
+       * [[paper]](https://ieeexplore.ieee.org/abstract/document/8029379/)
+       
+     * Huang, Huawei, et al. “When Blockchain Meets Distributed File Systems: An Overview, Challenges, and Open Issues.” IEEE Access 8 (2020): 50574-50586
+       * [[paper]](https://ieeexplore.ieee.org/document/9031420)
+       
+     * Huang, Huawei, et al. “A Survey of State-of-the-Art on Blockchains: Theories, Modelings, and Tools.” 2020
+       * [[paper]]( http://arxiv.org/abs/2007.03520)
 
 * ### Network Embedding
   * T-EDGE: Temporal WEighted MultiDiGraph Embedding for Ethereum Transaction Network Analysis
